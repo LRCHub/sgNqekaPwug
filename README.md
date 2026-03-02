@@ -1,0 +1,70 @@
+# SPIRITUS – Kawaii
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+鏡の中言うの今日もうちらKawaii
+人混みの中光るギャルsay cheese
+Bad boy いらない勝手にオナってな？
+嘘。なんてな　興味なんて無い
+鏡の中言うの今日もうちらKawaii
+人混みの中光るギャルsay cheese
+Bad boy いらない勝手にオナってな？
+嘘。なんてな　興味なんて無い
+フロアでけつ振るMy Bitch time
+ウォッカにSPぶっ飛びたい
+黒い穴それはThat you side
+Lightキラキラ開く瞳孔カラコンベティちゃん
+今日は雨隠せる涙あんま無理すんな
+Just kidding吸って寝てな
+思い出すmoving何回イケんの？
+うちらお似合いだろ文句は？
+迷う日々　くらうLyric
+解いた意味　She say "kill me"
+What's that show me
+どうでもいい
+Ya That's my girl
+どうでもいい
+Ya That's my girl
+振れ 振れturning up
+振れ 振れturning up
+私の前立つなら踊りなよ
+Wait, who r u？
+Oh me!
+鏡の中言うの今日もうちらKawaii
+人混みの中光るギャルsay cheese
+Bad boy いらない勝手にオナってな？
+嘘。なんてな　興味なんて無い
+鏡の中言うの今日もうちらKawaii
+人混みの中光るギャルsay cheese
+Bad boy いらない勝手にオナってな？
+嘘。なんてな　興味なんて無い
+人目気にせず踊る真夜中
+煙草とvodkaで喉カラカラ
+カメラ目線ファンサにパシャパシャ
+トイレでまたあの子はキラキラ
+止まんないあたし　吐く暇ないし
+実は愛想を尽かした汚れた血
+煙吐く口　忙しい毎日
+死神と肩組んで登ってる道
+迷う日々　くらうLyric
+解いた意味　She say "kill me"
+What's that show me
+どうでもいい
+Ya That's my girl
+どうでもいい
+Ya That's my girl
+振れ 振れturning up
+振れ 振れturning up
+私の前立つなら踊りなよ
+Wait, who r u？
+Oh me!
+鏡の中言うの今日もうちらKawaii
+人混みの中光るギャルsay cheese
+Bad boy いらない勝手にオナってな？
+嘘。なんてな　興味なんて無い
+鏡の中言うの今日もうちらKawaii
+人混みの中光るギャルsay cheese
+Bad boy いらない勝手にオナってな？
+嘘。なんてな　興味なんて無い
+```
