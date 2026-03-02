@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Kawaii",
+  "base_artist": "SPIRITUS",
+  "createdAt": "2026-03-02T15:37:42.370985Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gang Gang, Kawaii!!",
+      "artist": "DEMONDICE",
+      "has_synced": true,
+      "path": "select/01_Gang_Gang,_Kawaii!!_DEMONDICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kawaii Desho",
+      "artist": "Moe Shop",
+      "has_synced": true,
+      "path": "select/02_Kawaii_Desho_Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KAWAII",
+      "artist": "Tatarka",
+      "has_synced": true,
+      "path": "select/03_KAWAII_Tatarka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kawaii / Warrior",
+      "artist": "IC3PEAK",
+      "has_synced": false,
+      "path": "select/04_Kawaii___Warrior_IC3PEAK.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Strong and kawaii!",
+      "artist": "たかやん",
+      "has_synced": false,
+      "path": "select/05_Strong_and_kawaii!_たかやん.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kawaii 808 (feat. Ramengvrl)",
+      "artist": "Yellow Claw feat. Crisis Era & Ramengvrl",
+      "has_synced": true,
+      "path": "select/06_Kawaii_808_(feat._Ramengvrl)_Yellow_Claw_feat._Crisis_Era_&_Ramengvrl.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kawaii 808",
+      "artist": "Yellow Claw/Crisis Era/Ramengvrl",
+      "has_synced": true,
+      "path": "select/07_Kawaii_808_Yellow_Claw_Crisis_Era_Ramengvrl.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kawaii Hito",
+      "artist": "CHAI",
+      "has_synced": true,
+      "path": "select/08_Kawaii_Hito_CHAI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Kawaii Imouto",
+      "artist": "Shiki-TMNS",
+      "has_synced": false,
+      "path": "select/09_My_Kawaii_Imouto_Shiki-TMNS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kawaii no susume",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/10_Kawaii_no_susume_スリーズブーケ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kawaii Monster",
+      "artist": "Blood On the Dance Floor",
+      "has_synced": false,
+      "path": "select/11_Kawaii_Monster_Blood_On_the_Dance_Floor.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kawaii",
+      "artist": "Devin Townsend Project",
+      "has_synced": true,
+      "path": "select/12_Kawaii_Devin_Townsend_Project.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kawaii",
+      "artist": "SPIRITUS",
+      "has_synced": false,
+      "path": "select/pl_01_Kawaii_SPIRITUS.txt"
+    }
+  ]
+}
