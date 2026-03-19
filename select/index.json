@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Kawaii",
   "base_artist": "SPIRITUS",
-  "createdAt": "2026-03-02T15:37:42.370985Z",
+  "createdAt": "2026-03-19T11:29:18.843434Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,15 @@
       "artist": "SPIRITUS",
       "has_synced": false,
       "path": "select/pl_01_Kawaii_SPIRITUS.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Kawaii",
+      "artist": "SPIRITUS",
+      "has_synced": false,
+      "path": "select/localdb_01_Kawaii_SPIRITUS.txt",
+      "repo_name": "sgNqekaPwug"
     }
   ]
 }
